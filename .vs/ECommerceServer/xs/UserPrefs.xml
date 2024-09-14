@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{0A7F9DE1-F6DA-4917-9C45-B4DEB96D208D}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ECommerceServer.API/Controllers/ProductsController.cs">
+    <Files>
+      <File FileName="ECommerceServer.API/Controllers/ProductsController.cs" Line="11" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ECommerceServer" expanded="True">
+            <Node name="Core" expanded="True">
+              <Node name="ECommerceServer.Application" expanded="True">
+                <Node name="Abstractions" expanded="True" />
+              </Node>
+              <Node name="ECommerceServer.Domain" expanded="True" />
+            </Node>
+            <Node name="Infrastructure" expanded="True">
+              <Node name="ECommerceServer.Infrastructure" expanded="True" />
+              <Node name="ECommerceServer.Persistence" expanded="True">
+                <Node name="Concretes" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Presentation" expanded="True">
+              <Node name="ECommerceServer.API" expanded="True">
+                <Node name="Controllers" expanded="True">
+                  <Node name="ProductsController.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Presentation.ECommerceServer.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

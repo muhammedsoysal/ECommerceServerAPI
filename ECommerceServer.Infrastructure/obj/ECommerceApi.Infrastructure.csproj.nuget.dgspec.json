@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/muhammedsoysal/Documents/repos/ECommerce/ECommerceApi/ECommerceApi.Infrastructure/ECommerceApi.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/Users/muhammedsoysal/Documents/repos/ECommerce/ECommerceApi/ECommerceApi.Infrastructure/ECommerceApi.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muhammedsoysal/Documents/repos/ECommerce/ECommerceApi/ECommerceApi.Infrastructure/ECommerceApi.Infrastructure.csproj",
+        "projectName": "ECommerceApi.Infrastructure",
+        "projectPath": "/Users/muhammedsoysal/Documents/repos/ECommerce/ECommerceApi/ECommerceApi.Infrastructure/ECommerceApi.Infrastructure.csproj",
+        "packagesPath": "/Users/muhammedsoysal/.nuget/packages/",
+        "outputPath": "/Users/muhammedsoysal/Documents/repos/ECommerce/ECommerceApi/ECommerceApi.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muhammedsoysal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/muhammedsoysal/Documents/repos/ECommerce/ECommerceApi/ECommerceServer.Application/ECommerceServer.Application.csproj": {
+                "projectPath": "/Users/muhammedsoysal/Documents/repos/ECommerce/ECommerceApi/ECommerceServer.Application/ECommerceServer.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/muhammedsoysal/Documents/repos/ECommerce/ECommerceApi/ECommerceServer.Application/ECommerceServer.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muhammedsoysal/Documents/repos/ECommerce/ECommerceApi/ECommerceServer.Application/ECommerceServer.Application.csproj",
+        "projectName": "ECommerceServer.Application",
+        "projectPath": "/Users/muhammedsoysal/Documents/repos/ECommerce/ECommerceApi/ECommerceServer.Application/ECommerceServer.Application.csproj",
+        "packagesPath": "/Users/muhammedsoysal/.nuget/packages/",
+        "outputPath": "/Users/muhammedsoysal/Documents/repos/ECommerce/ECommerceApi/ECommerceServer.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muhammedsoysal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/muhammedsoysal/Documents/repos/ECommerce/ECommerceApi/ECommerceServer.Domain/ECommerceServer.Domain.csproj": {
+                "projectPath": "/Users/muhammedsoysal/Documents/repos/ECommerce/ECommerceApi/ECommerceServer.Domain/ECommerceServer.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/muhammedsoysal/Documents/repos/ECommerce/ECommerceApi/ECommerceServer.Domain/ECommerceServer.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muhammedsoysal/Documents/repos/ECommerce/ECommerceApi/ECommerceServer.Domain/ECommerceServer.Domain.csproj",
+        "projectName": "ECommerceServer.Domain",
+        "projectPath": "/Users/muhammedsoysal/Documents/repos/ECommerce/ECommerceApi/ECommerceServer.Domain/ECommerceServer.Domain.csproj",
+        "packagesPath": "/Users/muhammedsoysal/.nuget/packages/",
+        "outputPath": "/Users/muhammedsoysal/Documents/repos/ECommerce/ECommerceApi/ECommerceServer.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muhammedsoysal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
